@@ -1,4 +1,4 @@
-If You have a CTF that reads input from stdin and send output to stdout, you can use this script to support mutliple clients.
+If You have a CTF (Capture The Flag) that reads input from stdin and send output to stdout, you can use this script to support mutliple clients over the network.
 
 The CTF executable will be run on a docker, so each client will receive a sterile and isolated environment to play with.
 
